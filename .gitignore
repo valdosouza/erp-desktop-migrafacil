@@ -1,0 +1,24 @@
+# Saida do compilador Delphi
+*.dcu
+*.exe
+*.map
+*.drc
+*.rsm
+Win32/
+Win64/
+Bin/
+
+# Arquivos locais e temporarios da IDE
+__history/
+__recovery/
+*.identcache
+*.local
+*.stat
+*.~*
+*.dsk
+
+# Conhecimento fica no Vault (D-GP76), nao no repositorio
+Spec/
+
+# Despejos de falha do Git Bash
+*.stackdump

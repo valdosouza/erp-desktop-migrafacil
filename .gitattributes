@@ -1,0 +1,2 @@
+# RF-001: os arquivos ficam byte a byte como estao (sem conversao de fim de linha)
+* -text
